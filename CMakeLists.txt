@@ -149,6 +149,7 @@ add_subdirectory(libethash)
 
 add_subdirectory(libethcore)
 add_subdirectory(libevm)
+add_subdirectory(libevmexec)
 add_subdirectory(libethereum)
 add_subdirectory(libethashseal)
 
