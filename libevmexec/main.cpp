@@ -105,7 +105,7 @@ public:
     void clear() override {}
 };
 
-int ethmain(int argc, char** argv)
+int ethvm_main(int argc, char** argv)
 {
     setDefaultOrCLocale();
     string inputFile;
